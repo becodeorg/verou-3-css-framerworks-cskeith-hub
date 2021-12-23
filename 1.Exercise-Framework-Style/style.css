@@ -2,4 +2,8 @@
   margin: 0;
   padding: 0;
 }
+
+* body {
+  background-color: rgba(123, 123, 175, 0.685);
+}
 /*# sourceMappingURL=style.css.map */
