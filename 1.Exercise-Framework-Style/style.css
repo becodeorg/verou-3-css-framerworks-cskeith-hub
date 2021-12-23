@@ -4,8 +4,10 @@
 }
 
 body {
+  width: 100vh;
+  height: 100vh;
   background-image: url(../images/exercise-framework.png);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
 }
 /*# sourceMappingURL=style.css.map */
