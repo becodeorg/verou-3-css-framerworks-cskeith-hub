@@ -3,7 +3,9 @@
   padding: 0;
 }
 
-* body {
+body {
+  width: 100vw;
+  height: 100vh;
   background-color: rgba(123, 123, 175, 0.685);
 }
 /*# sourceMappingURL=style.css.map */
