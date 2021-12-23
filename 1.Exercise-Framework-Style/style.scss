@@ -3,8 +3,7 @@
     margin: 0;
 }
 body{
-    width: 100vh;
-    height: 100vh;
+    display: flex;
     background-image: url(../images/exercise-framework.png);
     background-repeat: no-repeat;
     background-size: contain; 
@@ -15,7 +14,11 @@ body{
 
 }
 @media only screen and (min-width: 426px){
+.container-fluid{
+    display: flex;
+    align-self: center;
 
+}
 }
 
     
