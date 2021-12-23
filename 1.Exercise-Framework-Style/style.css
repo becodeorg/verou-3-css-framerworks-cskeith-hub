@@ -7,6 +7,7 @@ body {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  height: 100vh;
   background-image: url(../images/exercise-framework.png);
   background-repeat: no-repeat;
   background-size: contain;
@@ -17,6 +18,8 @@ body {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+    width: 1;
+    height: 1;
     -ms-flex-item-align: center;
         align-self: center;
   }

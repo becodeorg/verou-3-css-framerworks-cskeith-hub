@@ -4,6 +4,7 @@
 }
 body{
     display: flex;
+    height: 100vh;
     background-image: url(../images/exercise-framework.png);
     background-repeat: no-repeat;
     background-size: contain; 
@@ -16,6 +17,8 @@ body{
 @media only screen and (min-width: 426px){
 .container-fluid{
     display: flex;
+    width: 1;
+    height: 1;
     align-self: center;
 
 }
