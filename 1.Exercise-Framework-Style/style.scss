@@ -3,19 +3,23 @@
     margin: 0;
 }
 
+
+
+@media only screen and (max-width: 426px){
+
+}
+@media only screen and (min-width: 426px){
 body{
     width: 100vh;
     height: 100vh;
     background-image: url(../images/exercise-framework.png);
     background-repeat: no-repeat;
     background-size: contain;
+    .container-fluid{
+    
+    }
+    
 }
-
-@media only screen and (max-width: 426px){
-
-}
-@media only screen and (min-width: 426px){
-
 }
 
     
