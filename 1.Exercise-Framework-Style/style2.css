@@ -6,6 +6,10 @@
 body {
   width: 100vw;
   height: 100vh;
-  background-color: rgba(82, 80, 73, 0.685);
+  background-color: rgba(70, 69, 66, 0.692);
+}
+
+body img {
+  background-color: rgba(70, 69, 65, 0.685);
 }
 /*# sourceMappingURL=style2.css.map */
