@@ -1,6 +1,7 @@
 One more round, this time in style!
 
 The Mission
+
 The design department of your company sent you a new section that needs to be added to their corporate website. It is intended to show the benefits of using their services in an easy to understand way.
 
 Choose a framework, and recreate the layout below.
